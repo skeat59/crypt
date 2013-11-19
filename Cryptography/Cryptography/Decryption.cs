@@ -26,5 +26,3 @@ namespace Cryptography
         }
     }
 }
-//test git
-
