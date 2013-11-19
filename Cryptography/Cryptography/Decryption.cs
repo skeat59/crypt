@@ -16,7 +16,7 @@ namespace Cryptography
             {
                 res = (uint)(encrypted - original);
             }
-            return res;
+            return res;//re test
         }
 
         public static char Decrypted(char encryp, uint n)
